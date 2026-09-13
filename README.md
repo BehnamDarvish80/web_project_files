@@ -6,12 +6,12 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
 
 ## web project list : 
 
-- [Web Project 1](https://behnamdarvish80.github.io/web_project_files/Web_Project_1/)
-- [Web Project 2](https://behnamdarvish80.github.io/web_project_files/Web_Project_2/)
-- [Web Project 3](https://behnamdarvish80.github.io/web_project_files/Web_Project_3/)
-- [Web Project 4](https://behnamdarvish80.github.io/web_project_files/Web_Project_4/)
-- [Web Project 5](https://behnamdarvish80.github.io/web_project_files/Web_Project_5/)
-- [Web Project 6](https://behnamdarvish80.github.io/web_project_files/Web_Project_6/)
-- [Web Project 7](https://behnamdarvish80.github.io/web_project_files/Web_Project_7/) 
+- [Web Project 1](https://behnamdarvish80.github.io/web_project_files/Web-Project-1/)
+- [Web Project 2](https://behnamdarvish80.github.io/web_project_files/Web-Project-2/)
+- [Web Project 3](https://behnamdarvish80.github.io/web_project_files/Web-Project-3/)
+- [Web Project 4](https://behnamdarvish80.github.io/web_project_files/Web-Project-4/)
+- [Web Project 5](https://behnamdarvish80.github.io/web_project_files/Web-Project-5/)
+- [Web Project 6](https://behnamdarvish80.github.io/web_project_files/Web-Project-6/)
+- [Web Project 7](https://behnamdarvish80.github.io/web_project_files/Web-Project-7/) 
 
 ---
